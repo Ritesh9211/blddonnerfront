@@ -1,0 +1,16 @@
+
+
+.footer .footer-bottom{
+    position: fixed;
+    padding: 10px 10px 0px 10px;
+    bottom: 0;
+    background: #343a60;
+    display: flex;
+    color: #969292;
+    height: 60px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+}
+
